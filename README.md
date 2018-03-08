@@ -4,6 +4,7 @@ Inspired by the work of Mike Bostock's [Towards Reusable Charts](http://bost.ock
 
 [View Examples](http://nvd3-community.github.io/nvd3/) | [NEW Documentation!](http://nvd3-community.github.io/nvd3/examples/documentation.html) | Development build status: [![Build Status](https://travis-ci.org/novus/nvd3.svg?branch=master)](https://travis-ci.org/novus/nvd3)
 
+build with node 6.12.0
 
 ## Usage
 Simply add the `nv.d3` assets to your project and include them in your HTML.
